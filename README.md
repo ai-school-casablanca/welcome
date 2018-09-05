@@ -23,3 +23,4 @@ If you are familiar with AI :
 * [Open AI](https://openai.com/) Awesome AI company. They present their research in their blog and you can play with Gym.
 
 There is probably some good content that I forgot to mention, so please feel free to add it here ! :)
+* https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading INTRODUCTION TO MACHINE LEARNING FOR TRADING
