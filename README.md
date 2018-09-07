@@ -21,6 +21,7 @@ If you are familiar with AI :
 * [Reddit's ML](https://www.reddit.com/r/MachineLearning/)
 * [The Coding Train](https://www.youtube.com/user/shiffman) Daniel Shiffman's youtube channel.
 * [Open AI](https://openai.com/) Awesome AI company. They present their research in their blog and you can play with Gym.
+* https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading INTRODUCTION TO MACHINE LEARNING FOR TRADING
+* [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) Interesting youtube channel which explains papers published in Arxiv website
 
 There is probably some good content that I forgot to mention, so please feel free to add it here ! :)
-* https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading INTRODUCTION TO MACHINE LEARNING FOR TRADING
